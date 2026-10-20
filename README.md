@@ -4,6 +4,7 @@ A responsive one-page developer portfolio inspired by the section structure and 
 
 ## Files
 - `index.html` — page structure and editable content
+- `resume cv kelvin.pdf` — downloadable resume linked from the contact section
 - `styles.css` — layout, colors, responsive design, and animations
 - `script.js` — mobile menu, reveal animations, current year, and live public GitHub projects
 
